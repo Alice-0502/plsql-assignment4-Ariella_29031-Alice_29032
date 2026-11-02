@@ -7,8 +7,8 @@
 
 | Full Name | Student ID |
 |-----------|------------|
-| _Student 1 full name_ | _ID_ |
-| _Student 2 full name_ | _ID_ |
+| Iriza Ntaganda Ariella | 29031 |
+| Umutoni Higiro Alice | 29032 |
 
 ## Application Description
 
